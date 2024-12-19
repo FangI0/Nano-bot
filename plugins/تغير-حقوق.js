@@ -19,5 +19,5 @@ else throw '*راسل صاحب البوت هناك مشكلة\n instagram.com/no
 }}
 handler.help = ['wm']
 handler.tags = ['sticker']
-handler.command = /^تغير-حقوق$/i
+handler.command = /^سرق$/i
 export default handler
